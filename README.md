@@ -3,7 +3,7 @@ Awesome React Libraries Tools is a curated collection of essential and widely-us
 
 ---
 
-## 💻 UI Component Libraries
+## 🧩 UI Component Libraries
 
 - **[Material UI (MUI)](https://github.com/mui/material-ui)**
     Comprehensive React components implementing Google's Material Design. Widely adopted with extensive documentation and theming support.
@@ -20,7 +20,13 @@ Awesome React Libraries Tools is a curated collection of essential and widely-us
 - **[React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)**  
     Rebuilds Bootstrap components as React components without jQuery dependencies.
 
-## 💻 State Management
+- **[Shadcn/UI](https://github.com/shadcn/ui)**
+    Beautifully designed components built using Radix UI and Tailwind CSS.
+
+- **[Headless UI](https://github.com/tailwindlabs/headlessui)**
+    Unstyled, accessible UI components designed to integrate with Tailwind CSS.
+
+## 🔄 State Management
 
 - **[Redux](https://github.com/reduxjs/redux)**
     Predictable state container for JavaScript apps, commonly used with React.
@@ -33,14 +39,19 @@ Awesome React Libraries Tools is a curated collection of essential and widely-us
 - **[Recoil](https://github.com/facebookexperimental/Recoil)**  
     State management library for React with a focus on shared state and derived data.
   
-- **[Zustand](https://zustand.docs.pmnd.rs)**
-    State management library for React with a focus on shared state and derived data.
-  
+- **[Zustand](https://github.com/pmndrs/zustand)**
+     A small, fast, and scalable bearbones state-management solution.
+
+- **[Jotai](https://github.com/pmndrs/jotai)**
+    Primitive and flexible state management for React.
+
 ## 💻 Routing
 
 - **[React Router](https://github.com/remix-run/react-router)**
     Declarative routing for React applications, supporting dynamic routing and nested routes.
 
+- **[Wouter](https://github.com/molefrog/wouter)**
+    A minimalist routing library for React.
 
 ## 🌍 Internationalization (i18n)
 
@@ -70,10 +81,23 @@ Awesome React Libraries Tools is a curated collection of essential and widely-us
 
 ## 💻 Data Fetching
 - **[React Query](https://github.com/TanStack/query)**
-Powerful data synchronization for React, managing server state and caching.
+    Powerful data synchronization for React, managing server state and caching.
 
 - **[SWR](https://github.com/vercel/swr)**
-React Hooks library for data fetching with caching, revalidation, and real-time updates.
+    React Hooks library for data fetching with caching, revalidation, and real-time updates.
+
+- **[Axios](https://github.com/axios/axios)**
+    Promise based HTTP client for the browser and node.js.
+
+## 🎨 Styling
+- **[Styled Components](https://github.com/styled-components/styled-components)**
+    Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress.
+
+- **[Emotion](https://github.com/emotion-js/emotion)**
+    Library designed for writing CSS styles with JavaScript.
+
+- **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)**
+    A utility-first CSS framework for rapidly building custom designs.
 
 ## 💻 Animation
 - **[Framer Motion](https://github.com/framer/motion)**
