@@ -3,6 +3,45 @@ Awesome React Libraries Tools is a curated collection of essential and widely-us
 
 ---
 
+## 💻 UI Component Libraries
+
+- **[Material UI (MUI)](https://github.com/mui/material-ui)**
+    Comprehensive React components implementing Google's Material Design. Widely adopted with extensive documentation and theming support.
+
+- **[Chakra UI](https://github.com/chakra-ui/chakra-ui)**
+    Accessible and composable components with built-in support for dark mode and theming.
+
+- **[Ant Design](https://github.com/ant-design/ant-design)**  
+    Enterprise-level UI design language and React-based implementation with a rich set of high-quality components.
+
+- **[Mantine](https://github.com/mantinedev/mantine)**  
+    Modern React components and hooks library with full TypeScript support and server-side rendering capabilities.
+
+- **[React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)**  
+    Rebuilds Bootstrap components as React components without jQuery dependencies.
+
+## 💻 State Management
+
+- **[Redux](https://github.com/reduxjs/redux)**
+    Predictable state container for JavaScript apps, commonly used with React.
+    Brainhub
+
+- **[MobX](https://github.com/mobxjs/mobx)**
+    Simple, scalable state management with transparent functional reactive programming.
+    GitHub+9GitHub+9Reddit+9
+
+- **[Recoil](https://github.com/facebookexperimental/Recoil)**  
+    State management library for React with a focus on shared state and derived data.
+  
+- **[Zustand](https://zustand.docs.pmnd.rs)**
+    State management library for React with a focus on shared state and derived data.
+  
+## 💻 Routing
+
+- **[React Router](https://github.com/remix-run/react-router)**
+    Declarative routing for React applications, supporting dynamic routing and nested routes.
+
+
 ## 🌍 Internationalization (i18n)
 
 - **[react-i18next](https://react.i18next.com/)**  
@@ -28,6 +67,31 @@ Awesome React Libraries Tools is a curated collection of essential and widely-us
   Framework-agnostic form state management library.
 
 ---
+
+## 💻 Data Fetching
+- **[React Query](https://github.com/TanStack/query)**
+Powerful data synchronization for React, managing server state and caching.
+
+- **[SWR](https://github.com/vercel/swr)**
+React Hooks library for data fetching with caching, revalidation, and real-time updates.
+
+## 💻 Animation
+- **[Framer Motion](https://github.com/framer/motion)**
+Production-ready animation library for React with a simple API.
+
+## 💻 Testing
+- **[Jest](https://github.com/facebook/jest)**
+Delightful JavaScript testing framework with a focus on simplicity.
+
+- **[React Testing Library](https://github.com/testing-library/react-testing-library)**
+Simple and complete React DOM testing utilities that encourage good testing practices.
+
+## 💻 Utility Libraries
+- **[React Icons](https://github.com/react-icons/react-icons)**
+Include popular icons in your React projects easily with customizable SVG icons.
+
+- **[clsx](https://github.com/lukeed/clsx)**
+A tiny utility for constructing className strings conditionally.
 
 ## 💻 Code Editors
 
